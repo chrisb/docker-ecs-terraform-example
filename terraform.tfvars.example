@@ -1,0 +1,7 @@
+ecs_task_execution_role_name = "MyAppEcsTaskExecutionRole"
+ecs_auto_scale_role_name = "MyAppEcsAutoScaleRole"
+app_image = "111111111111.dkr.ecr.us-east-1.amazonaws.com/my-app:latest"
+project_name = "my-app"
+dns_hosted_zone = "my-app.com"
+dns_name = "app.my-app.com" 
+aws_profile_name = "default"
